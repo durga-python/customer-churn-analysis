@@ -62,8 +62,14 @@ The analysis identified important customer characteristics associated with churn
 
 ## Dashboard Screenshots
 
+### Age vs Churn
+![Age vs Churn](images/age_vs_churn.png)
+
 ### Customer Churn Distribution
 ![Churn Distribution](images/churn_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Gender vs Churn
 ![Gender vs Churn](images/gender_vs_churn.png)
@@ -71,8 +77,3 @@ The analysis identified important customer characteristics associated with churn
 ### Geography vs Churn
 ![Geography vs Churn](images/geography_vs_churn.png)
 
-### Age vs Churn
-![Age vs Churn](images/age_vs_churn.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
