@@ -59,3 +59,20 @@ The analysis identified important customer characteristics associated with churn
 * NumPy
 * Matplotlib
 * Seaborn
+
+## Dashboard Screenshots
+
+### Customer Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Gender vs Churn
+![Gender vs Churn](images/gender_vs_churn.png)
+
+### Geography vs Churn
+![Geography vs Churn](images/geography_vs_churn.png)
+
+### Age vs Churn
+![Age vs Churn](images/age_vs_churn.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
